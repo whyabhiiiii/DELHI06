@@ -19,3 +19,4 @@
 2025-11-14T10:14:13+05:30 | optimized hero image file size
 2025-11-15T23:25:23+05:30 | added fade-in animations on scroll
 2025-11-16T21:48:15+05:30 | implemented sticky header on scroll
+2025-11-16T18:51:01+05:30 | fixed z-index layering issues
