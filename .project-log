@@ -23,3 +23,4 @@
 2025-11-18T18:00:06+05:30 | added social media links in footer
 2025-11-18T20:51:35+05:30 | created order page prototype
 2025-11-19T11:47:04+05:30 | implemented basic cart functionality
+2025-11-19T23:47:33+05:30 | added local storage for cart state
