@@ -25,3 +25,4 @@
 2025-11-19T11:47:04+05:30 | implemented basic cart functionality
 2025-11-19T23:47:33+05:30 | added local storage for cart state
 2025-11-20T11:10:11+05:30 | fixed mobile menu toggle behavior
+2025-11-20T19:58:17+05:30 | added skeleton loading states
