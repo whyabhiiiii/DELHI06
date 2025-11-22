@@ -30,3 +30,4 @@
 2025-11-21T17:14:09+05:30 | embedded Google Maps for location
 2025-11-21T12:52:33+05:30 | created blog section layout
 2025-11-21T15:48:03+05:30 | added pagination for blog listing
+2025-11-22T15:39:06+05:30 | fixed CSS grid gap on Safari
