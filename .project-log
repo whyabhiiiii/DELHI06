@@ -32,3 +32,4 @@
 2025-11-21T15:48:03+05:30 | added pagination for blog listing
 2025-11-22T15:39:06+05:30 | fixed CSS grid gap on Safari
 2025-11-22T15:11:16+05:30 | added dark mode toggle switch
+2025-11-23T16:13:04+05:30 | implemented theme persistence in storage
