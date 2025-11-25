@@ -33,3 +33,4 @@
 2025-11-22T15:39:06+05:30 | fixed CSS grid gap on Safari
 2025-11-22T15:11:16+05:30 | added dark mode toggle switch
 2025-11-23T16:13:04+05:30 | implemented theme persistence in storage
+2025-11-25T22:47:03+05:30 | updated page meta tags
