@@ -43,3 +43,4 @@
 2025-12-02T18:47:51+05:30 | built FAQ accordion section
 2025-12-10T11:49:05+05:30 | added search bar to navigation
 2025-12-14T09:22:38+05:30 | reduced overall CSS bundle size
+2025-12-20T20:55:48+05:30 | fixed edge case in cart quantity
