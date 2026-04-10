@@ -60,12 +60,15 @@ app.use(helmet({
       defaultSrc: ["'self'"],
       scriptSrc: [
         "'self'",
-        "'unsafe-inline'",   // Required for inline event handlers
+        "'unsafe-inline'",   // Required for inline scripts
         "https://checkout.razorpay.com",
         "https://code.iconify.design",
         "https://api.iconify.design",
         "https://accounts.google.com",
         "https://apis.google.com",
+      ],
+      scriptSrcAttr: [
+        "'unsafe-inline'",   // Required for inline event handlers (onclick, oninput, etc.)
       ],
       styleSrc: [
         "'self'",
