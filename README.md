@@ -9,7 +9,7 @@
 # 🏛️ Delhi 6 — Heritage Tours & Food Walks
 
 > A full-stack booking platform for curated heritage tours, food walks, cooking classes, and cultural experiences in Old Delhi.
-
+ 
 **🌐 Live:** [delhi06.onrender.com](https://delhi06.onrender.com)
 
 ---
@@ -28,7 +28,7 @@
 - [License](#license)
 
 ---
-
+<!-- dummy edit -->
 ## Overview
 
 Delhi 6 is a production-grade web application that connects travellers with authentic Old Delhi experiences. Users can browse curated tours, book time slots, make payments via Razorpay, and manage their bookings — all through a responsive single-page frontend served by an Express backend.
